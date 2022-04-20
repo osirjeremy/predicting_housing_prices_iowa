@@ -1,0 +1,7 @@
+
+# History files
+.icloud
+.csv
+.txt
+.xlsx
+
